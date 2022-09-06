@@ -1,0 +1,18 @@
+total 64
+drwxrwxr-x 2 sir sir 4096 Sep  6 06:57 .
+drwxrwxr-x 6 sir sir 4096 Sep  6 05:06 ..
+-rwxrw-r-- 1 sir sir   25 Sep  6 05:29 0-hello_world
+-rwxrw-r-- 1 sir sir   23 Sep  6 05:21 1-confused_smiley
+-rwxrw-r-- 1 sir sir   28 Sep  6 05:37 2-hellofile
+-rwxrw-r-- 1 sir sir   39 Sep  6 05:44 3-twofiles
+-rwxrw-r-- 1 sir sir   29 Sep  6 05:45 4-lastlines
+-rwxrw-r-- 1 sir sir   35 Sep  6 05:47 5-firstlines
+-rwxrw-r-- 1 sir sir   36 Sep  6 06:19 6-third_line
+-rwxrw-r-- 1 sir sir   81 Sep  6 06:53 7-file
+-rwxrw-r-- 1 sir sir   36 Sep  6 06:57 8-cwd_state
+-rw-rw-r-- 1 sir sir   12 Sep  6 06:54 \*\'Best School'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 sir sir  129 Sep  6 05:52 iacta
+-rw-rw-r-- 1 sir sir    0 Sep  6 06:57 ls_cwd_content
+-rw-rw-r-- 1 sir sir   53 Sep  6 05:07 README.md
+-rw-rw-r-- 1 sir sir    8 Sep  6 05:21 smiley
+-rw-rw-r-- 1 sir sir   13 Sep  6 05:24 world
